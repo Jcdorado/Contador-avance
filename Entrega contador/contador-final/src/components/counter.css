@@ -1,0 +1,27 @@
+.counter-space{
+    display: flex;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    min-width: 2px;
+    padding: 5px 10px;
+    border: 1.5px solid rgba(8, 13, 80, 0.103);
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+    align-self: center;
+    justify-self: center;
+    box-shadow: 0px 0px 20px 5px rgba(8, 13, 80, 0.15);
+    background-color: white;
+}
+
+.counter-space:hover{
+    cursor: default;
+}
+
+h2{
+    color: grey;
+    margin: 0 auto;
+    font-size: 60px;
+
+}

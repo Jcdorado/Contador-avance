@@ -1,0 +1,52 @@
+.button-space {
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.button-style-substract{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    min-width: 2px;
+    padding: 5px 10px;
+    box-shadow: 0px 0px 20px 5px rgba(8, 13, 80, 0.15);
+    color:grey;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+
+}
+
+.button-style-add{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    min-width: 2px;
+    padding: 5px 10px;
+    box-shadow: 0px 0px 20px 5px rgba(8, 13, 80, 0.15);
+    color: grey;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+  
+}
+
+.button-style-reset{
+    display: flex;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    min-width: 2px;
+    padding: 5px 10px;
+    box-shadow: 0px 0px 20px 5px rgba(8, 13, 80, 0.15);
+    margin-top: 20px;
+    color:grey;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+
+
